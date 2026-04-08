@@ -6,7 +6,7 @@ Chrome's vertical tabs sidebar ("Expand tabs" / "Collapse tabs") has no keyboard
 
 ## Install
 
-> **Note:** This extension is currently under review for the Raycast Store. For now, install it locally using the development instructions below.
+> **Note:** This extension is currently under review for the Raycast Store. For now, install it locally by running `npm run dev` in the project directory.
 
 1. Grant Raycast accessibility permission in System Settings > Privacy & Security > Accessibility
 2. Open Raycast, search "Toggle Sidebar", and run it.

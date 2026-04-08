@@ -40,10 +40,6 @@ npm install
 npm run dev
 ```
 
-## Prior Art
-
-Inspired by [ChromeSidebarToggleRaycast](https://github.com/RotulPlastik/ChromeSidebarToggleRaycast) — a script command approach that required manual compilation, file copying, and directory registration. This extension wraps the same idea into a one-click Raycast install.
-
 ## License
 
 MIT

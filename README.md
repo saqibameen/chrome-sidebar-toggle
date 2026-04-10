@@ -16,6 +16,9 @@ Chrome's vertical tabs sidebar ("Expand tabs" / "Collapse tabs") has no keyboard
 
 **Cmd + Shift + ,** — configurable in Raycast Settings > Extensions > Chrome Tabs Sidebar.
 
+> [!NOTE]
+> Sometimes default shortcut assignment fails, so you'd have to configure it once yourself. 
+
 ## Requirements
 
 - macOS 13+

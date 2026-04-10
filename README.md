@@ -1,4 +1,4 @@
-# Chrome Tabs Sidebar
+# Toggle Chrome Sidebar
 
 A Raycast extension that toggles Chrome's vertical tabs sidebar with a single keystroke.
 
@@ -14,7 +14,7 @@ Chrome's vertical tabs sidebar ("Expand tabs" / "Collapse tabs") has no keyboard
 
 ## Default Shortcut
 
-**Cmd + Shift + ,** — configurable in Raycast Settings > Extensions > Chrome Tabs Sidebar.
+**Cmd + Shift + ,** — configurable in Raycast Settings > Extensions > Toggle Chrome Sidebar.
 
 > [!NOTE]
 > Sometimes default shortcut assignment fails, so you'd have to configure it once yourself. 
